@@ -684,27 +684,20 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Glitch3dPenguin">
-            <img src="https://avatars.githubusercontent.com/u/3271160?v=4" width="80;" alt="Glitch3dPenguin"/>
-            <br />
-            <sub><b>Max Kulik</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/emiran-orange">
             <img src="https://avatars.githubusercontent.com/u/71817149?v=4" width="80;" alt="emiran-orange"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/edugof">
             <img src="https://avatars.githubusercontent.com/u/19559978?v=4" width="80;" alt="edugof"/>
             <br />
             <sub><b>Eduardo Gomez</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Dylan-Bs">
             <img src="https://avatars.githubusercontent.com/u/35694107?v=4" width="80;" alt="Dylan-Bs"/>
@@ -739,15 +732,15 @@
             <br />
             <sub><b>DeepSource Bot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/DawidPietrykowski">
             <img src="https://avatars.githubusercontent.com/u/53954695?v=4" width="80;" alt="DawidPietrykowski"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/skaarj1989">
             <img src="https://avatars.githubusercontent.com/u/34756939?v=4" width="80;" alt="skaarj1989"/>
@@ -782,15 +775,15 @@
             <br />
             <sub><b>Begin</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BRAVO68WEB">
             <img src="https://avatars.githubusercontent.com/u/41448663?v=4" width="80;" alt="BRAVO68WEB"/>
             <br />
             <sub><b>Jyotirmoy Bandyopadhyaya [Bravo68]</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/AaronPorts">
             <img src="https://avatars.githubusercontent.com/u/32810520?v=4" width="80;" alt="AaronPorts"/>
@@ -817,6 +810,13 @@
             <img src="https://avatars.githubusercontent.com/u/27576311?v=4" width="80;" alt="0n1cOn3"/>
             <br />
             <sub><b>0n1cOn3</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Glitch3dPenguin">
+            <img src="https://avatars.githubusercontent.com/u/3271160?v=4" width="80;" alt="Glitch3dPenguin"/>
+            <br />
+            <sub><b>Max Kulik</b></sub>
         </a>
     </td>
     <td align="center">
@@ -939,13 +939,6 @@
             <img src="https://avatars.githubusercontent.com/u/31769405?v=4" width="80;" alt="pvillaverde"/>
             <br />
             <sub><b>Fedello</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ethan-hann">
-            <img src="https://avatars.githubusercontent.com/u/36464732?v=4" width="80;" alt="ethan-hann"/>
-            <br />
-            <sub><b>Ethan Hann</b></sub>
         </a>
     </td></tr>
 </table>
